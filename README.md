@@ -135,10 +135,14 @@ python run_save_hidden_states.py
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{latent-multilingual-reasoning,
-  title={Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners},
-  author={...},
-  year={2026}
+@misc{liu2026largereasoning,
+      title={Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners}, 
+      author={Yihong Liu and Raoyuan Zhao and Hinrich Schütze and Michael A. Hedderich},
+      year={2026},
+      eprint={2601.02996},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.02996}, 
 }
 ```
 
